@@ -1,0 +1,6 @@
+else if (textBox1.Text + " " + textBox2.Text == "admin"+" "+"admin")
+                {
+                    Form3 frm3 = new Form3();
+                    frm3.Show();
+                    this.Hide();
+                }
